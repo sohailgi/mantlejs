@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/AssetMantle/mantlejs#readme",
   "dependencies": {
-    "@cosmjs/amino": "^0.25.5",
+    "@cosmjs/amino": "^0.29.5",
     "@cosmjs/launchpad": "^0.25.5",
     "@tendermint/amino-js": "^0.6.2",
     "@tendermint/belt": "^0.3.0",
